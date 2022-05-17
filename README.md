@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamanna Amirin</h1>
+<h1 align="center">Hi 👋, I'm Tamanna Amrin</h1>
 <h3 align="center">A passionate frontend developer from Bnangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuli1811&label=Profile%20views&color=0e75b6&style=flat" alt="tuli1811" /> </p>
