@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [eHostel](https://github.com/jihan212/ehostel)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
