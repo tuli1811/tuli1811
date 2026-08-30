@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tamanna Amrin</h1>
-<h3 align="center">A passionate frontend developer from Bnangladesh</h3>
+<h3 align="center">A passionate Software Quality Assurance frontend developer from Bnangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuli1811&label=Profile%20views&color=0e75b6&style=flat" alt="tuli1811" /> </p>
 
 - 🔭 I’m currently working on [eHostel](https://github.com/jihan212/ehostel)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
